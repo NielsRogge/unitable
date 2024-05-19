@@ -1,10 +1,10 @@
-torch
-torchvision
-torchaudio
+# torch
+# torchvision
+# torchaudio
 torchtext
 jsonlines
 beautifulsoup4
-matplotlib
+# matplotlib
 hydra-core
 hydra_colorlog
 apted
